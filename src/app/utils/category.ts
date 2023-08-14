@@ -1,0 +1,39 @@
+const categories =[
+    { 
+        name:"Acadêmico",
+        icon:"/academico.png",
+        route:"academic",
+    },
+    {
+        name:"Cultura",
+        icon:"/cultural.png",
+        route:"cultura",
+    },
+    {
+        name:"Feiras",
+        icon:"/feiras.png",
+        route:"fairs",
+    },
+    {
+        name:"Festival",
+        icon:"/festival.png",
+        route:"festival",
+    },
+    {
+        name:"Gastronômico",
+        icon:"/gastronomicos.png",
+        route:"gastronomic",
+    },
+    {
+        name:"Musical",
+        icon:"/musical.png",
+        route:"musical",
+    },
+    {
+        name:"Acadêmico",
+        icon:"/academico.png",
+        route:"academic",
+    }
+]
+
+export { categories}
